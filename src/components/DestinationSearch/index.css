@@ -1,0 +1,37 @@
+/* Write your CSS here */
+
+.input {
+  width: 300px;
+  height: 40px;
+  font-family: 'Roboto';
+  font-size: 22px;
+  padding: 8px;
+  border-radius: 10px;
+  outline: none;
+  margin-right: 20px;
+}
+
+.bg {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+  padding-top: 40px;
+}
+
+.head {
+  font-family: 'Roboto';
+  font-size: 40px;
+}
+
+.final-list {
+  list-style: none;
+  flex-wrap: wrap;
+  width: 100vw;
+  height: 100vh;
+}
+
+.icon {
+  width: 50px;
+  height: 50px;
+}
